@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Take Home W1/1.0.0": {
+        "runtime": {
+          "Take Home W1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Take Home W1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
